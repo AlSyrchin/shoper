@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shoper/static/css/main.973530ce.css",
+    "main.js": "/shoper/static/js/main.24f1d19a.js",
+    "index.html": "/shoper/index.html",
+    "main.973530ce.css.map": "/shoper/static/css/main.973530ce.css.map",
+    "main.24f1d19a.js.map": "/shoper/static/js/main.24f1d19a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.973530ce.css",
+    "static/js/main.24f1d19a.js"
+  ]
+}
