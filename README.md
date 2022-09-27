@@ -1,3 +1,3 @@
-#Build
+# Build
 
-link: https://alsyrchin.github.io/shoper/
+This project is available on: https://alsyrchin.github.io/shoper/
